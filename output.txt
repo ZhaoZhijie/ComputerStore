@@ -1,0 +1,100 @@
+Server 282475249 intelD mod2 3272 2 intelE mod3 3923 2 1 40 hdd 60 80 Linux 14510 mf1
+Desktop 1441282327 intelA mod2 2303 0 intelE mod1 3157 2 16 100 hdd 360 110 Mac 6524
+Server 1954899097 intelC mod2 3810 2 intelD mod2 3149 3 4 70 ssd 120 45 Linux 17182 mf1
+Server 156091745 intelB mod1 2357 4 intelB mod3 2708 1 1 40 hdd 360 110 Mac 12286 mf1
+Desktop 1942727722 intelE mod3 3801 1 intelD mod1 3408 1 8 85 ssd 360 55 Linux 7349
+Desktop 1137623865 intelD mod1 3425 2 intelE mod1 2094 0 4 70 ssd 120 45 Linux 6965
+Laptop 2146319451 intelD mod3 3505 1 intelC mod1 3566 1 8 85 hdd 240 100 Mac 7346 mf1 14
+Server 616783871 intelC mod3 3177 0 intelC mod1 3904 0 1 40 sshd 120 135 Win 175 mf3
+Server 456880399 intelC mod1 3557 1 intelE mod2 2395 2 1 40 ssd 360 55 Linux 8442 mf2
+Desktop 322842082 intelC mod1 3695 0 intelC mod1 3901 1 8 85 sshd 120 135 Linux 4121
+Desktop 304555640 intelA mod2 3972 2 intelD mod1 3319 1 16 100 ssd 360 55 Mac 11418
+Server 532236123 intelD mod3 3238 4 intelE mod1 3844 3 2 55 hdd 500 120 Win 24659 mf1
+Server 784559590 intelE mod2 2947 1 intelA mod2 3272 0 1 40 ssd 240 50 Linux 3037 mf2
+Server 1012028144 intelA mod1 3625 0 intelE mod2 2011 3 16 100 ssd 240 50 Linux 6183 mf3
+Desktop 621301815 intelD mod3 3397 0 intelD mod2 3825 1 2 55 sshd 240 150 Win 4030
+Desktop 41000625 intelD mod3 2776 1 intelC mod2 3874 2 2 55 ssd 120 45 Linux 10624
+Server 298918984 intelE mod2 2015 3 intelD mod3 3680 2 2 55 hdd 60 80 Mac 13540 mf3
+Laptop 1353963249 intelE mod3 2808 1 intelC mod1 2849 1 2 55 ssd 120 45 Linux 5867 mf2 17.3
+Laptop 203042009 intelE mod2 2054 1 intelA mod1 3545 1 1 40 ssd 60 40 Linux 5759 mf3 13.3
+Laptop 1668306648 intelA mod1 3976 1 intelC mod2 2797 1 8 85 sshd 120 135 Win 7073 mf1 13.3
+Desktop 1778878209 intelD mod2 2447 1 intelC mod3 3322 1 8 85 ssd 120 45 Mac 5899
+Laptop 121205400 intelA mod1 3016 1 intelD mod1 3133 1 8 85 sshd 120 135 Mac 6479 mf1 17.3
+Laptop 1042227878 intelE mod1 3133 1 intelB mod2 2762 1 2 55 hdd 240 100 Linux 6140 mf3 14
+Desktop 843998877 intelD mod1 3254 0 intelA mod2 3947 1 1 40 sshd 60 120 Win 4107
+Desktop 989340000 intelA mod1 3113 0 intelE mod3 3360 0 4 70 ssd 360 55 Mac 125
+Laptop 1780776563 intelC mod2 3419 1 intelC mod1 3269 1 8 85 ssd 360 55 Linux 6888 mf1 11.1
+Desktop 345205658 intelB mod3 3824 0 intelC mod1 3603 1 1 40 ssd 60 40 Linux 3683
+Desktop 350213900 intelD mod3 3003 1 intelB mod2 3934 1 4 70 sshd 500 180 Linux 7187
+Server 1415306249 intelA mod2 2983 3 intelA mod1 2723 1 16 100 sshd 120 135 Linux 11907 mf3
+Server 344185621 intelE mod1 2958 0 intelB mod1 3064 3 2 55 sshd 360 165 Win 9412 mf1
+Laptop 123427205 intelD mod3 3649 1 intelD mod3 3025 1 8 85 sshd 360 165 Win 7024 mf3 15.6
+Laptop 2090265324 intelC mod2 3690 1 intelB mod3 2593 1 1 40 ssd 60 40 Win 6473 mf3 17.3
+Laptop 1746007307 intelA mod3 2799 1 intelC mod3 3787 1 2 55 sshd 60 120 Mac 6841 mf1 13.3
+Desktop 1287114315 intelA mod3 2220 2 intelB mod3 3054 1 8 85 hdd 500 120 Mac 7699
+Server 772359304 intelD mod2 3720 1 intelB mod2 2867 1 8 85 ssd 500 60 Mac 6732 mf3
+Desktop 501848671 intelB mod3 3045 1 intelA mod2 3158 2 1 40 ssd 240 50 Mac 9451
+Desktop 1550207533 intelC mod3 3531 1 intelC mod3 3006 1 2 55 hdd 500 120 Linux 6712
+Laptop 368034324 intelB mod1 3015 1 intelA mod2 3905 1 1 40 ssd 120 45 Linux 7075 mf1 12
+Laptop 702715827 intelD mod3 2384 1 intelC mod1 2476 1 2 55 hdd 120 90 Mac 5085 mf1 13.3
+Laptop 516341991 intelD mod1 2744 1 intelD mod2 3934 1 16 100 hdd 240 100 Linux 6978 mf3 15.6
+Desktop 822102918 intelE mod1 2727 2 intelA mod2 2540 0 8 85 sshd 60 120 Win 5659
+Laptop 2031615252 intelB mod2 2675 1 intelA mod1 2415 1 4 70 sshd 60 120 Linux 5350 mf3 12
+Laptop 88949715 intelE mod1 3164 1 intelE mod1 3525 1 8 85 sshd 360 165 Win 7029 mf1 14
+Server 812535217 intelD mod3 2338 4 intelB mod2 3719 2 8 85 hdd 240 100 Mac 16975 mf1
+Server 498383912 intelE mod3 3734 0 intelC mod2 2615 4 2 55 sshd 120 135 Win 10650 mf3
+Desktop 1751072698 intelE mod3 3503 2 intelE mod2 3391 1 1 40 sshd 500 180 Win 10617
+Desktop 1840127450 intelC mod1 2141 1 intelE mod3 2217 0 1 40 hdd 500 120 Win 2301
+Laptop 1258459317 intelD mod2 3029 1 intelE mod3 3903 1 4 70 sshd 120 135 Linux 7227 mf2 14
+Desktop 1292006996 intelA mod1 3555 1 intelB mod1 2293 2 16 100 sshd 240 150 Linux 8391
+Desktop 1434444856 intelD mod3 2914 1 intelE mod2 3835 0 4 70 hdd 360 110 Mac 3094
+Laptop 230168410 intelE mod2 3943 1 intelB mod2 3992 1 2 55 sshd 500 180 Mac 8250 mf3 13.3
+Server 1525679891 intelD mod2 2177 1 intelA mod3 3176 4 16 100 sshd 120 135 Linux 15116 mf1
+Desktop 1132610790 intelE mod3 2884 1 intelD mod1 3127 2 4 70 ssd 500 60 Linux 9268
+Server 894374165 intelC mod1 3854 0 intelE mod1 2377 2 16 100 sshd 60 120 Linux 4974 mf3
+Server 434826720 intelC mod2 3956 0 intelA mod2 2048 1 8 85 hdd 500 120 Mac 2253 mf3
+Server 885295731 intelA mod3 2057 1 intelA mod1 2805 3 16 100 hdd 240 100 Win 10672 mf1
+Laptop 595278518 intelE mod2 2054 1 intelD mod2 2889 1 1 40 ssd 60 40 Mac 5103 mf3 13.3
+Server 1543867758 intelC mod2 2714 1 intelA mod2 3450 2 4 70 ssd 120 45 Win 9729 mf1
+Laptop 1364093128 intelD mod3 3253 1 intelB mod2 2293 1 1 40 ssd 120 45 Linux 5701 mf1 12
+Desktop 839594410 intelD mod1 2138 2 intelC mod2 2828 0 1 40 hdd 60 80 Mac 4396
+Desktop 1590767370 intelD mod1 2852 0 intelB mod1 2400 1 4 70 hdd 360 110 Win 2580
+Server 728252845 intelE mod2 2849 4 intelD mod3 3055 0 1 40 ssd 60 40 Win 11476 mf2
+Server 1759921226 intelE mod2 2714 3 intelC mod1 3698 4 1 40 sshd 240 150 Linux 23124 mf1
+Server 626045960 intelA mod3 3566 3 intelD mod2 2363 3 8 85 sshd 60 120 Linux 17992 mf1
+Server 1362834840 intelA mod1 2507 1 intelB mod3 3786 4 16 100 hdd 500 120 Mac 17871 mf1
+Desktop 1808275514 intelE mod2 2671 1 intelA mod3 3947 2 16 100 ssd 360 55 Linux 10720
+Laptop 2005986288 intelE mod3 3379 1 intelB mod3 2487 1 8 85 sshd 500 180 Mac 6191 mf2 11.1
+Desktop 1428738283 intelB mod2 2567 2 intelE mod3 3684 1 2 55 ssd 500 60 Win 8933
+Desktop 1792486327 intelB mod3 3936 2 intelE mod1 2231 0 8 85 sshd 360 165 Mac 8122
+Laptop 893369089 intelA mod2 2612 1 intelD mod2 3781 1 2 55 ssd 60 40 Win 6548 mf1 11.1
+Laptop 1904228600 intelE mod2 3194 1 intelA mod1 3559 1 4 70 ssd 500 60 Win 6953 mf1 12
+Server 1350237153 intelB mod3 3818 4 intelB mod2 2196 4 16 100 sshd 500 180 Linux 24336 mf3
+Laptop 1926818416 intelA mod3 2288 1 intelC mod1 2800 1 16 100 sshd 60 120 Linux 5378 mf1 12
+Laptop 524630659 intelE mod3 2382 1 intelD mod1 3440 1 8 85 ssd 60 40 Linux 6007 mf1 11.1
+Laptop 277117595 intelA mod1 3923 1 intelA mod1 2850 1 2 55 ssd 360 55 Mac 6983 mf2 15.6
+Server 265094610 intelE mod1 3361 4 intelE mod1 3562 0 16 100 sshd 60 120 Linux 13664 mf2
+Desktop 627260093 intelC mod1 2366 1 intelD mod2 2722 2 8 85 sshd 240 150 Win 8045
+Desktop 568356771 intelA mod2 2489 0 intelD mod1 2902 0 4 70 hdd 120 90 Win 160
+Server 227725811 intelB mod3 3607 3 intelD mod2 3553 2 1 40 sshd 60 120 Win 18087 mf1
+Desktop 424988139 intelD mod2 2160 1 intelD mod3 3875 2 8 85 sshd 240 150 Win 10145
+Laptop 1963590646 intelE mod3 2192 1 intelE mod2 3328 1 1 40 sshd 240 150 Mac 5800 mf3 14
+Server 1812908748 intelA mod3 3292 3 intelA mod2 2300 2 8 85 hdd 240 100 Linux 14661 mf2
+Server 1835246221 intelD mod3 2531 4 intelC mod2 3486 4 16 100 hdd 120 90 Win 24258 mf2
+Server 1468762966 intelC mod3 3412 4 intelB mod2 2174 3 16 100 sshd 240 150 Mac 20420 mf3
+Laptop 1407044999 intelE mod3 3364 1 intelB mod3 3979 1 8 85 sshd 240 150 Linux 7668 mf2 14
+Desktop 477900753 intelB mod3 3253 0 intelE mod3 2553 2 2 55 hdd 360 110 Mac 5271
+Desktop 1404181687 intelC mod3 3641 0 intelE mod1 2092 2 16 100 sshd 60 120 Win 4404
+Desktop 1038525826 intelE mod2 3979 0 intelA mod2 3288 1 4 70 sshd 360 165 Win 3523
+Laptop 1378888929 intelD mod3 3199 1 intelA mod3 3276 1 16 100 sshd 120 135 Mac 6820 mf2 17.3
+Laptop 984580318 intelD mod2 3120 1 intelD mod2 3651 1 2 55 sshd 240 150 Mac 7076 mf2 15.6
+Desktop 1239225063 intelB mod3 2968 1 intelE mod3 3323 1 8 85 ssd 240 50 Linux 6426
+Laptop 1817708271 intelE mod2 2032 1 intelE mod3 2035 1 1 40 sshd 360 165 Linux 4372 mf1 15.6
+Laptop 540506265 intelE mod1 3327 1 intelC mod2 3037 1 8 85 hdd 500 120 Win 6629 mf2 11.1
+Laptop 718044156 intelE mod2 3886 1 intelD mod2 2047 1 4 70 sshd 60 120 Linux 6223 mf1 15.6
+Laptop 1986056805 intelC mod2 3585 1 intelB mod3 2760 1 8 85 hdd 240 100 Linux 6640 mf2 17.3
+Desktop 808048585 intelE mod3 3200 1 intelB mod2 3495 0 8 85 sshd 240 150 Mac 3435
+Laptop 2130687802 intelD mod2 2789 1 intelC mod2 2605 1 2 55 hdd 120 90 Win 5639 mf3 15.6
+Desktop 408575706 intelB mod2 3801 2 intelA mod1 2375 2 2 55 hdd 240 100 Linux 12507
+Desktop 1002161024 intelD mod1 3397 0 intelA mod3 3896 2 8 85 hdd 60 80 Linux 7957
+Server 1477558821 intelB mod3 2662 1 intelD mod3 2635 1 8 85 sshd 120 135 Mac 5517 mf2
